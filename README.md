@@ -1,6 +1,6 @@
 # Hi there, I'm Gilbert! 👋
 
-## 🚀 Full Stack Developer | Django & Node.js Specialist
+## 🚀 Full Stack Developer | Django & Node.js
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building scalable web applications using Django and Node.js. I love creating efficient, maintainable code and solving complex problems through technology.
 
@@ -53,11 +53,6 @@ Here are some of my notable projects that showcase my skills:
 - Role-based permissions, notifications, reporting
 - Technologies: Django, Celery, Redis, PostgreSQL
 
-### 📊 GitHub Stats
-
-![Gilbert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ### 🎯 Current Focus
 
@@ -70,10 +65,9 @@ Here are some of my notable projects that showcase my skills:
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** your.email@example.com
-- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+- 💼 **Whatsap:** +250737842596
+- 📧 **Email:** gilbertnshimyimana11@gmail.com
+- 🌐 **Portfolio:** https://v0-gilbert-portfolio-website.vercel.app/
 
 ### 💡 Fun Facts
 
@@ -86,12 +80,6 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 ⭐ **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
-![Profile Views](https://komarev.com/ghpv/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
 
----
-
-### 📈 Contribution Graph
-
-![Gilbert's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
