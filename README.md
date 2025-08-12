@@ -1,171 +1,97 @@
-## Hi there 👋
-<h1 align="center">Hi there 👋, I'm Gilbert</h1>
-<h3 align="center">💻 Python | Django | Node.js | JavaScript | Full Stack Developer</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
+# Hi there, I'm Gilbert! 👋
 
----
+## 🚀 Full Stack Developer | Django & Node.js Specialist
 
-## 🚀 About Me
-- 🔭 I'm currently working on **scalable web applications with Django & Node.js**
-- 🌱 I'm exploring **cloud architecture, microservices & DevOps practices**
-- 👯 I'm looking to collaborate on **open source Python & JavaScript projects**
-- 💬 Ask me about **Django, Node.js, REST APIs, Database Design, Web Development**
-- 📫 How to reach me: **gilbert.developer@email.com**
-- ⚡ Fun fact: I turn coffee ☕ into code and debug with print statements!
+Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in building scalable web applications using Django and Node.js. I love creating efficient, maintainable code and solving complex problems through technology.
 
----
+### 🛠️ Tech Stack
 
-## 🛠️ Languages & Tools
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  
-  <!-- Frameworks -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  
-  <!-- Tools & DevOps -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
+**Backend Development:**
+- **Python/Django** - RESTful APIs, ORM, Authentication, Middleware
+- **Node.js/Express** - Server-side JavaScript, API development, Microservices
+- **Database:** PostgreSQL, MySQL, MongoDB, Redis
+- **API Design:** REST, GraphQL, WebSocket
 
----
+**Frontend Technologies:**
+- **JavaScript (ES6+)** - Modern JS features and best practices
+- **React/Vue.js** - Component-based UI development
+- **HTML5 & CSS3** - Responsive design, Flexbox, Grid
+- **Bootstrap/Tailwind CSS** - Rapid UI development
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+**DevOps & Tools:**
+- **Version Control:** Git, GitHub, GitLab
+- **Cloud Platforms:** AWS, Google Cloud Platform, Heroku
+- **Containerization:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions, Jenkins
+- **Testing:** Jest, Pytest, Unit Testing, Integration Testing
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
-</p>
+### 💼 What I Do
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 🔧 Build robust web applications with Django and Django REST Framework
+- ⚡ Develop high-performance APIs and microservices with Node.js
+- 🎨 Create responsive, user-friendly frontend interfaces
+- 📊 Design and optimize database schemas and queries
+- 🚀 Deploy and maintain applications in cloud environments
+- 🧪 Write comprehensive tests to ensure code quality
 
----
+### 🌟 Featured Projects
 
-## 🌟 Featured Projects
+Here are some of my notable projects that showcase my skills:
 
-### 🛒 [**E-Commerce Platform**](https://github.com/YOUR_USERNAME/ecommerce-platform) 
-**Django + Django REST Framework + React**
-- Full-featured online store with payment integration (Stripe)
-- RESTful API with authentication & authorization
-- Admin dashboard, inventory management, order tracking
-- Technologies: Django, PostgreSQL, React, Celery, Redis
+**🔹 E-Commerce Platform** (Django + React)
+- Full-featured online store with payment integration
+- RESTful API, user authentication, and admin dashboard
+- Technologies: Django, Django REST Framework, React, PostgreSQL
 
-### 💬 [**Real-Time Chat Application**](https://github.com/YOUR_USERNAME/chat-application)
-**Node.js + Socket.io + MongoDB**
-- Scalable messaging platform with WebSocket connections
-- Group chats, private messaging, file sharing
-- JWT authentication, message persistence, typing indicators
-- Technologies: Node.js, Express, Socket.io, MongoDB, React
+**🔹 Real-Time Chat Application** (Node.js + Socket.io)
+- Scalable messaging platform with real-time communication
+- JWT authentication, message persistence, file sharing
+- Technologies: Node.js, Express, Socket.io, MongoDB
 
-### 📋 [**Task Management API**](https://github.com/YOUR_USERNAME/task-manager-api)
-**Django + Celery + PostgreSQL**
+**🔹 Task Management API** (Django + Celery)
 - Project management tool with async task processing
-- Role-based permissions, team collaboration
-- Email notifications, reporting, time tracking
+- Role-based permissions, notifications, reporting
 - Technologies: Django, Celery, Redis, PostgreSQL
 
-### 🎬 [**Movie Recommendation System**](https://github.com/YOUR_USERNAME/movie-recommender)
-**Python + Django + Machine Learning**
-- ML-powered movie recommendation engine
-- User preferences analysis, collaborative filtering
-- RESTful API, user ratings, watchlist management
-- Technologies: Django, scikit-learn, pandas, PostgreSQL
+### 📊 GitHub Stats
 
-### 📱 [**Portfolio Website**](https://github.com/YOUR_USERNAME/portfolio-website)
-**React + Node.js + Express**
-- Responsive personal portfolio with admin panel
-- Blog system, project showcase, contact form
-- SEO optimized, mobile-first design
-- Technologies: React, Node.js, MongoDB, Tailwind CSS
+![Gilbert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
-## 🎯 What I'm Currently Learning
-- 🏗️ **Microservices Architecture** with Docker & Kubernetes
-- ☁️ **AWS Cloud Services** - Lambda, EC2, RDS, S3
-- 🧠 **Machine Learning** integration with Django applications
-- 📱 **React Native** for cross-platform mobile development
-- 🔐 **Advanced Security** practices in web applications
+### 🎯 Current Focus
 
----
+- 🔍 Exploring advanced Django patterns and performance optimization
+- 📱 Learning React Native for mobile development
+- ☁️ Deepening knowledge in cloud architecture and serverless technologies
+- 🤖 Experimenting with AI/ML integration in web applications
 
-## 💼 Experience Highlights
-- ✅ **5+ years** of web development experience
-- ✅ **50+ projects** completed successfully
-- ✅ **RESTful API design** and development expert
-- ✅ **Database optimization** and query performance tuning
-- ✅ **Agile methodologies** and team collaboration
-- ✅ **CI/CD pipelines** setup and maintenance
+### 🤝 Let's Connect!
+
+I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
+
+- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 📧 **Email:** your.email@example.com
+- 🐦 **Twitter:** [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- 🌐 **Portfolio:** [Your Portfolio Website](https://yourportfolio.com)
+
+### 💡 Fun Facts
+
+- 🌍 I enjoy contributing to open-source projects
+- 📚 Always learning new technologies and best practices
+- ☕ Fueled by coffee and curiosity
+- 🎮 When not coding, you can find me gaming or exploring new places
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
+⭐ **"Code is like humor. When you have to explain it, it's bad."** - Cory House
+
+![Profile Views](https://komarev.com/ghpv/?username=YOUR_GITHUB_USERNAME&color=blueviolet)
 
 ---
 
-## 📈 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" alt="Contribution Graph" />
-</p>
+### 📈 Contribution Graph
 
----
+![Gilbert's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark)
 
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/gilbert-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gilbert.developer@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/gilbert_codes" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://gilbert-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://dev.to/gilbert" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-</p>
-
----
-
-## 💡 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/YOUR_USERNAME">Gilbert</a> - Thanks for visiting! Let's build something amazing together! 🚀</i>
-</p>
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
