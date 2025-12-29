@@ -1,207 +1,344 @@
 <div align="center">
-  
-# 👋 Hi there, I'm Gilbert!
 
-### 🚀 Full Stack Developer | Django & Node.js Specialist
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hello World, I'm **Gilbert Nshimyimana**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Applications;Django+%26+Node.js+Expert;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=2E97F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Software+Engineer+%7C+Full+Stack+Developer;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React;Building+Scalable+%26+Efficient+Web+Solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-gilbert-portfolio-website.vercel.app/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250737842596)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertnshimyimana11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0A66C2?style=for-the-badge)](https://v0-gilbert-portfolio-website.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:gilbertnshimyimana11@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge)](https://wa.me/250737842596)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+## 🎯 **About Me**
 
-## 🧑‍💻 About Me
+> **Software Engineer** with hands-on experience in building **scalable web applications** using modern technologies. Passionate about writing **clean, maintainable code** and creating seamless user experiences.
 
-```javascript
-const gilbert = {
-    location: "Rwanda 🇷🇼",
-    role: "Full Stack Developer",
-    passion: ["Clean Code", "Problem Solving", "Innovation"],
-    currentFocus: ["Django Optimization", "React Native", "Cloud Architecture"],
-    funFact: "Fueled by coffee ☕ and curiosity 🔍"
-};
+```typescript
+class SoftwareEngineer {
+    constructor() {
+        this.name = "Gilbert Nshimyimana";
+        this.location = "Kigali, Rwanda 🇷🇼";
+        this.education = "BSc. Information Technology @ University of Rwanda";
+        this.experience = ["SOLVIT - Web Developer", "Code2Connect Fellow"];
+        this.specialization = ["Full Stack Development", "UI/UX Design"];
+    }
+    
+    getDailyRoutine() {
+        return ["☕ Coffee", "💻 Code", "📚 Learn", "🔁 Repeat"];
+    }
+}
 ```
 
-I'm a passionate full-stack developer dedicated to building efficient, scalable, and maintainable web applications. I love solving complex problems through technology and continuously learning new skills to stay at the cutting edge of development.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 💼 **Professional Experience**
 
-## 🛠️ Tech Stack
+### 🏢 **Web Developer** @ SOLVIT
+**📅 June 2025 – September 2025**
 
-### Backend Development
+- 🚀 Developed and maintained web applications using **Django** and **React**, boosting user engagement by **25%**
+- ⚡ Implemented **RESTful APIs** to seamlessly connect frontend and backend systems
+- 🎨 Led UI design improvements using **CSS** and **Tailwind CSS**, significantly enhancing user experience
+- 🤝 Collaborated with cross-functional teams using **Git** for efficient version control
+
+### 🎓 **Code2Connect Fellow** - UI/UX Design & Django
+**📜 Certificate Holder** | Mastercard Foundation Initiative
+
+- Completed intensive 3-month fellowship program
+- Specialized training in **UI/UX Design** and **Django Framework**
+- Part of Young African Works strategy supporting 300,000+ young professionals
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ **Technical Arsenal**
+
+<div align="center">
+
+### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Frontend Technologies
+### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### **UI/UX Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C4CC?style=for-the-badge&logo=responsive&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+</div>
 
-## 🌟 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 **Featured Projects**
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 E-Commerce Platform</h3>
-      <div align="center">
-        <p>
-          <strong>Django + React</strong><br/>
-          Full-featured online store with payment integration, RESTful API, user authentication, and comprehensive admin dashboard.
-        </p>
-        <p>
-          <code>Django</code> <code>React</code> <code>PostgreSQL</code> <code>Stripe</code>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">💬 Real-Time Chat Application</h3>
-      <div align="center">
-        <p>
-          <strong>Node.js + Socket.io</strong><br/>
-          Scalable messaging platform with real-time communication, JWT authentication, and file sharing capabilities.
-        </p>
-        <p>
-          <code>Node.js</code> <code>Socket.io</code> <code>MongoDB</code> <code>Redis</code>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📋 Task Management API</h3>
-      <div align="center">
-        <p>
-          <strong>Django + Celery</strong><br/>
-          Project management tool with async task processing, role-based permissions, notifications, and reporting features.
-        </p>
-        <p>
-          <code>Django</code> <code>Celery</code> <code>Redis</code> <code>PostgreSQL</code>
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚀 More Projects Coming Soon!</h3>
-      <div align="center">
-        <p>
-          Currently working on exciting new projects involving AI/ML integration and cloud-native architectures.
-        </p>
-        <p>
-          <code>Stay Tuned!</code>
-        </p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍️ **E-Commerce Platform**
+**Tech Stack:** Django • React • PostgreSQL
+
+A full-featured online shopping platform with:
+- 🔐 User authentication & authorization
+- 💳 Payment gateway integration
+- 📱 Responsive UI with Tailwind CSS
+- 🔄 RESTful API architecture
+- 📊 Admin dashboard for management
+
+**Impact:** Enhanced user engagement by 25%
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 **Real-Time Chat Application**
+**Tech Stack:** Node.js • Express • Socket.io
+
+Scalable messaging platform featuring:
+- ⚡ Real-time bidirectional communication
+- 🔒 JWT-based authentication
+- 📁 File sharing capabilities
+- 👥 Group chat functionality
+- 🌐 WebSocket implementation
+
+**Impact:** Seamless user experience
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📋 **Task Management System**
+**Tech Stack:** Django • React • REST API
+
+Comprehensive project management tool:
+- ✅ Task creation and tracking
+- 👤 Role-based access control
+- 📊 Progress visualization
+- 🔔 Real-time notifications
+- 📈 Analytics and reporting
+
+**Impact:** Improved team productivity
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 **Portfolio Website**
+**Tech Stack:** React • Tailwind CSS • Vercel
+
+Modern, responsive portfolio showcasing:
+- 🌟 Interactive UI/UX design
+- 📱 Mobile-first approach
+- ⚡ Fast loading performance
+- 🎯 SEO optimized
+- 🔗 Live project demonstrations
+
+[**🔗 View Live**](https://v0-gilbert-portfolio-website.vercel.app/)
+
+</td>
+</tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+## 🎓 **Education & Certifications**
 
-## 🎯 Current Focus
+### 🏛️ **University of Rwanda** 
+**Bachelor of Science in Information Technology**  
+📅 September 2023 – June 2026 (Expected)  
+📍 Kigali, Rwanda
 
-- 🔍 **Django Optimization** - Exploring advanced patterns and performance tuning
-- 📱 **React Native** - Expanding into mobile development
-- ☁️ **Cloud Architecture** - Deepening knowledge in serverless technologies
-- 🤖 **AI/ML Integration** - Experimenting with intelligent web applications
-- 🌐 **Open Source** - Contributing to meaningful projects
-
----
-
-## 💼 What I Do
-
-✨ Build robust web applications with **Django** and **Django REST Framework**  
-⚡ Develop high-performance APIs and microservices with **Node.js**  
-🎨 Create responsive, user-friendly frontend interfaces  
-📊 Design and optimize database schemas and queries  
-🚀 Deploy and maintain applications in cloud environments  
-🧪 Write comprehensive tests to ensure code quality  
-
----
-
-## 📈 Activity Graph
+### 📜 **Professional Certifications**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
 
----
-
-## 💡 Philosophy
-
-<div align="center">
-  
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> **— Cory House**
+| Certificate | Issuer | Year |
+|------------|--------|------|
+| 🎨 **UI/UX Design** | Code2Connect Fellowship | 2025 |
+| 💻 **Django Framework** | Code2Connect Fellowship | 2025 |
+| 📊 **NESA Certificate in MPC** | GS Rilima | 2022 |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect & Collaborate!
+## 📈 **Contribution Graph**
 
-I'm always interested in collaborating on exciting projects and connecting with fellow developers. Whether you have a project idea, want to contribute to open source, or just want to chat about tech, feel free to reach out!
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 **Current Focus & Goals**
+
+```python
+current_goals = {
+    "learning": [
+        "Advanced Django patterns and optimization",
+        "Cloud deployment (AWS, Azure)",
+        "CI/CD pipelines and DevOps practices",
+        "TypeScript and Next.js",
+        "System design and architecture"
+    ],
+    "building": [
+        "SaaS applications",
+        "Open-source contributions",
+        "API-first applications",
+        "Microservices architecture"
+    ],
+    "contributing": [
+        "Open source projects",
+        "Developer communities",
+        "Tech mentorship programs"
+    ]
+}
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 **Core Competencies**
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250737842596)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gilbertnshimyimana11@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-gilbert-portfolio-website.vercel.app/)
+| **Development** | **Design** | **Soft Skills** |
+|:---------------:|:----------:|:---------------:|
+| 🏗️ Full Stack Development | 🎨 UI/UX Design | 🤝 Team Collaboration |
+| 🔌 REST API Development | 📱 Responsive Design | 💬 Clear Communication |
+| 🗄️ Database Design | ✨ User Experience | 🎯 Problem Solving |
+| 🧪 Testing & Debugging | 🎭 Prototyping | ⏱️ Time Management |
+| 🚀 Performance Optimization | 🌈 Visual Design | 📚 Continuous Learning |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 **What Sets Me Apart**
 
 <div align="center">
 
-### ⭐ Fun Facts About Me
+| 🎯 **Proven Impact** | 🚀 **Technical Versatility** | 🎨 **Design Mindset** |
+|:------------------:|:-------------------------:|:-------------------:|
+| Improved user engagement by **25%** at SOLVIT | Proficient in **Python, JavaScript**, and modern frameworks | Certified in **UI/UX Design** with hands-on experience |
+| Successfully delivered production-ready applications | Experience with **full development lifecycle** | Focus on **user-centered design** principles |
+| Collaborated with **cross-functional teams** | Strong foundation in **REST API** development | Creating **intuitive interfaces** that users love |
 
-🌍 Contributing to open-source projects  
-📚 Lifelong learner of technologies and best practices  
-☕ Coffee enthusiast and problem-solving addict  
-🎮 Gamer and explorer in my free time  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💭 **Developer Philosophy**
+
+<div align="center">
+
+> ### *"Clean code always looks like it was written by someone who cares."*
+> — **Robert C. Martin**
+
+<br>
+
+**My Approach:**  
+✅ Write code that others can understand  
+✅ Test thoroughly, deploy confidently  
+✅ Design with the user in mind  
+✅ Never stop learning and improving  
+✅ Collaborate, share knowledge, and grow together  
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 **Let's Connect & Build Together!**
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects, contribute to open source, or discuss technology and opportunities. Let's create something amazing together! 🚀
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&labelColor=000000)](https://v0-gilbert-portfolio-website.vercel.app/)
+[![Email](https://img.shields.io/badge/📧_Email-gilbertnshimyimana11@gmail.com-EA4335?style=for-the-badge&labelColor=000000)](mailto:gilbertnshimyimana11@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+250737842596-25D366?style=for-the-badge&labelColor=000000)](https://wa.me/250737842596)
+
+<br>
+
+### 📱 **Available For:**
+💼 Full-time opportunities • 🎯 Freelance projects • 🤝 Collaborations • 💡 Consulting
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎮 **Beyond Code**
+
+<div align="center">
+
+| 📚 **Hobbies & Interests** |
+|:------------------------:|
+| 📖 Reading tech blogs and books on software architecture |
+| 🌍 Contributing to developer communities |
+| ☕ Coffee enthusiast - fueling productive coding sessions |
+| 🎯 Problem-solving challenges on coding platforms |
+| 🎨 Exploring new design trends and UI patterns |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 🙏 **Thank You for Visiting!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=yellow)
+
+**⭐ If you find my projects interesting, consider starring them!**  
+**💬 Open to feedback and suggestions for collaboration**  
+**🚀 Let's build the future of web together!**
 
 ---
 
-### 💖 Thanks for visiting my profile!
-
-**Let's build something amazing together! 🚀**
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+**Made with ❤️ by Gilbert Nshimyimana**
 
 </div>
