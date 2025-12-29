@@ -12,7 +12,7 @@
 
 </div>
 
-## 🎯 **About Me**
+## **About Me**
 
 > **Software Engineer** with hands-on experience in building **scalable web applications** using modern technologies. Passionate about writing **clean, maintainable code** and creating seamless user experiences.
 
@@ -80,20 +80,9 @@ class SoftwareEngineer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 **GitHub Analytics**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manzp111&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzp111&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manzp111&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manzp111&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -103,12 +92,6 @@ class SoftwareEngineer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 ** Certifications**
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 **Contribution Graph**
 
