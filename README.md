@@ -1,6 +1,6 @@
-[<div align="center">
+<div align="center">
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hello World, I'm **Gilbert Nshimyimana**
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hello , I'm **Gilbert Nshimyimana**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=2E97F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Software+Engineer+%7C+Full+Stack+Developer;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React;Building+Scalable+%26+Efficient+Web+Solutions" alt="Typing SVG" />
 
@@ -22,8 +22,8 @@ class SoftwareEngineer {
         this.name = "Gilbert Nshimyimana";
         this.location = "Kigali, Rwanda 🇷🇼";
         this.education = "BSc. Information Technology @ University of Rwanda";
-        this.experience = ["SOLVIT - Web Developer", "Code2Connect Fellow"];
-        this.specialization = ["Full Stack Development", "UI/UX Design"];
+        this.experience = ["SOLVIT - Web Developer", "Code2Connect Fellowship"];
+        this.specialization = ["Full Stack Development"];
     }
     
     getDailyRoutine() {
@@ -41,28 +41,24 @@ class SoftwareEngineer {
 
 - 🚀 Developed and maintained web applications using **Django** and **React**, boosting user engagement by **25%**
 - ⚡ Implemented **RESTful APIs** to seamlessly connect frontend and backend systems
-- 🎨 Led UI design improvements using **CSS** and **Tailwind CSS**, significantly enhancing user experience
 - 🤝 Collaborated with cross-functional teams using **Git** for efficient version control
 
-### 🎓 **Code2Connect Fellow** - UI/UX Design & Django
-**📜 Certificate Holder** | Mastercard Foundation Initiative
 
-- Completed intensive 3-month fellowship program
-- Specialized training in **UI/UX Design** and **Django Framework**
-- Part of Young African Works strategy supporting 300,000+ young professionals
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ **Technical Arsenal**
+## 🛠️ **Technical Tool & framework**
 
 <div align="center">
 
 ### **Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FAST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### **Frontend Development**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -71,16 +67,13 @@ class SoftwareEngineer {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **UI/UX Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-00C4CC?style=for-the-badge&logo=responsive&logoColor=white)
+
 
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![ kubernetes](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
@@ -90,12 +83,12 @@ class SoftwareEngineer {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manzp111&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manzp111&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manzp111&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
@@ -104,107 +97,23 @@ class SoftwareEngineer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 **Featured Projects**
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🛍️ **E-Commerce Platform**
-**Tech Stack:** Django • React • PostgreSQL
-
-A full-featured online shopping platform with:
-- 🔐 User authentication & authorization
-- 💳 Payment gateway integration
-- 📱 Responsive UI with Tailwind CSS
-- 🔄 RESTful API architecture
-- 📊 Admin dashboard for management
-
-**Impact:** Enhanced user engagement by 25%
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 **Real-Time Chat Application**
-**Tech Stack:** Node.js • Express • Socket.io
-
-Scalable messaging platform featuring:
-- ⚡ Real-time bidirectional communication
-- 🔒 JWT-based authentication
-- 📁 File sharing capabilities
-- 👥 Group chat functionality
-- 🌐 WebSocket implementation
-
-**Impact:** Seamless user experience
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📋 **Task Management System**
-**Tech Stack:** Django • React • REST API
-
-Comprehensive project management tool:
-- ✅ Task creation and tracking
-- 👤 Role-based access control
-- 📊 Progress visualization
-- 🔔 Real-time notifications
-- 📈 Analytics and reporting
-
-**Impact:** Improved team productivity
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 **Portfolio Website**
-**Tech Stack:** React • Tailwind CSS • Vercel
-
-Modern, responsive portfolio showcasing:
-- 🌟 Interactive UI/UX design
-- 📱 Mobile-first approach
-- ⚡ Fast loading performance
-- 🎯 SEO optimized
-- 🔗 Live project demonstrations
-
-[**🔗 View Live**](https://v0-gilbert-portfolio-website.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 **Education & Certifications**
+## 🎓 ** Certifications**
 
-### 🏛️ **University of Rwanda** 
-**Bachelor of Science in Information Technology**  
-📅 September 2023 – June 2026 (Expected)  
-📍 Kigali, Rwanda
 
-### 📜 **Professional Certifications**
 
-<div align="center">
-
-| Certificate | Issuer | Year |
-|------------|--------|------|
-| 🎨 **UI/UX Design** | Code2Connect Fellowship | 2025 |
-| 💻 **Django Framework** | Code2Connect Fellowship | 2025 |
-| 📊 **NESA Certificate in MPC** | GS Rilima | 2022 |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 **Contribution Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manzp111&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -236,33 +145,8 @@ current_goals = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 **Core Competencies**
 
-<div align="center">
 
-| **Development** | **Design** | **Soft Skills** |
-|:---------------:|:----------:|:---------------:|
-| 🏗️ Full Stack Development | 🎨 UI/UX Design | 🤝 Team Collaboration |
-| 🔌 REST API Development | 📱 Responsive Design | 💬 Clear Communication |
-| 🗄️ Database Design | ✨ User Experience | 🎯 Problem Solving |
-| 🧪 Testing & Debugging | 🎭 Prototyping | ⏱️ Time Management |
-| 🚀 Performance Optimization | 🌈 Visual Design | 📚 Continuous Learning |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 **What Sets Me Apart**
-
-<div align="center">
-
-| 🎯 **Proven Impact** | 🚀 **Technical Versatility** | 🎨 **Design Mindset** |
-|:------------------:|:-------------------------:|:-------------------:|
-| Improved user engagement by **25%** at SOLVIT | Proficient in **Python, JavaScript**, and modern frameworks | Certified in **UI/UX Design** with hands-on experience |
-| Successfully delivered production-ready applications | Experience with **full development lifecycle** | Focus on **user-centered design** principles |
-| Collaborated with **cross-functional teams** | Strong foundation in **REST API** development | Creating **intuitive interfaces** that users love |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -307,19 +191,6 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎮 **Beyond Code**
-
-<div align="center">
-
-| 📚 **Hobbies & Interests** |
-|:------------------------:|
-| 📖 Reading tech blogs and books on software architecture |
-| 🌍 Contributing to developer communities |
-| ☕ Coffee enthusiast - fueling productive coding sessions |
-| 🎯 Problem-solving challenges on coding platforms |
-| 🎨 Exploring new design trends and UI patterns |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -339,7 +210,7 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 ---
 
-**Made with ❤️ by Gilbert Nshimyimana**
+**Engineer Gilbert Nshimyimana**
 
 </div>
-](https://claude.ai/public/artifacts/8297f87b-ca84-47b3-9580-32adbb9adb97)
+]
