@@ -92,7 +92,7 @@ class SoftwareEngineer {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manzp111&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -200,9 +200,9 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=Manzp111&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Manzp111?label=Followers&style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Manzp111?label=Stars&style=for-the-badge&color=yellow)
 
 **⭐ If you find my projects interesting, consider starring them!**  
 **💬 Open to feedback and suggestions for collaboration**  
@@ -213,4 +213,4 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 **Engineer Gilbert Nshimyimana**
 
 </div>
-]
+
