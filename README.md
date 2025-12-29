@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&color=2E97F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Software+Engineer+%7C+Full+Stack+Developer;Python+%E2%80%A2+Django+%E2%80%A2+Node.js+%E2%80%A2+React;Building+Scalable+%26+Efficient+Web+Solutions" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0A66C2?style=for-the-badge)](https://v0-gilbert-portfolio-website.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0A66C2?style=for-the-badge)](https://manzp.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge)](mailto:gilbertnshimyimana11@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge)](https://wa.me/250737842596)
 
@@ -162,7 +162,7 @@ I'm always excited to collaborate on innovative projects, contribute to open sou
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&labelColor=000000)](https://v0-gilbert-portfolio-website.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&labelColor=000000)](https://manzp.vercel.app/)
 [![Email](https://img.shields.io/badge/📧_Email-gilbertnshimyimana11@gmail.com-EA4335?style=for-the-badge&labelColor=000000)](mailto:gilbertnshimyimana11@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-+250737842596-25D366?style=for-the-badge&labelColor=000000)](https://wa.me/250737842596)
 
