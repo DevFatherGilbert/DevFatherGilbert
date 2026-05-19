@@ -3,14 +3,14 @@
 
 <p align="left">
   <a href="mailto:gilbertnshimyimana11@gmail.com"><img src="https://img.shields.io/badge/Email-gilbertnshimyimana11%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://gilbert.dev"><img src="https://img.shields.io/badge/Portfolio-gilbert.dev-0078d4?style=flat-square&logo=microsoft-edge" alt="Portfolio"/></a>
+  <a href="https://gilberts.dev"><img src="https://img.shields.io/badge/Portfolio-gilbert.dev-0078d4?style=flat-square&logo=microsoft-edge" alt="Portfolio"/></a>
   <a href="https://github.com/DevFatherGilbert"><img src="https://img.shields.io/badge/GitHub-DevFatherGilbert-181717?style=flat-square&logo=github" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Kigali%2C%20Rwanda-red?style=flat-square&logo=google-maps" alt="Location"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## ⛱️ About Me
 
 I am a Software Engineer specializing in **backend architecture, distributed systems, and full-stack development**. I build secure, scalable, and high-performance web and mobile solutions, seamlessly uniting complex backends with polished user views. 
 
@@ -18,7 +18,7 @@ Beyond core development, I champion **DevOps practices**—leveraging containeri
 
 ---
 
-## 🧠 Technical Matrix
+## 🖥️📔 Technical Matrix
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -31,7 +31,7 @@ Beyond core development, I champion **DevOps practices**—leveraging containeri
 
 ---
 
-## 💼 Professional Experience
+## 👩‍💻👨‍💻 Professional Experience
 
 ### **SOLVIT AFRICA** | Kigali, Rwanda
 > **Django Trainee** *(Apr 2025 – Nov 2025)*
@@ -77,7 +77,7 @@ Beyond core development, I champion **DevOps practices**—leveraging containeri
 
 ---
 
-## 🎯 Engineering Focus
+## 🎓 Engineering Focus
 
 * **Distributed Scales:** Designing low-latency, fault-tolerant distributed cloud architectures.
 * **Open Source:** Actively contributing to the developer ecosystem and modern tools.
